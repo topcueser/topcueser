@@ -1,4 +1,4 @@
-<h1>👋 Hello, I'm Eser TOPCU - Software Developer 👨‍💻 </h1>
+## 👋 Hello, I'm Eser TOPCU - *Software Developer* 👨‍💻 
 
 <h4> I am passionate about technologies and love to learn new things.</h4>
 
