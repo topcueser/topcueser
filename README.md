@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Eser TOPCU - *Software Developer* 👨‍💻 
+## 👋 Hello, I'm a *Software Developer* 👨‍💻 
 
 <h3> I am passionate about technologies and love to learn new things.</h3>
 
